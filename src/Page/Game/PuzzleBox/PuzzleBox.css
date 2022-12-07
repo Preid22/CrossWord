@@ -1,0 +1,5 @@
+.puzzlebox {
+    display: flex;
+    border: 1px solid;
+    flex-grow: 1;
+}

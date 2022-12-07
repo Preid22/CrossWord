@@ -1,0 +1,7 @@
+.key {
+    display: flex;
+    justify-content: flex-start;
+    height: auto;
+    width: 375px;
+    border: 1px solid blue;
+}

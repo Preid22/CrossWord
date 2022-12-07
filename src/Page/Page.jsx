@@ -3,9 +3,9 @@ import "./Page.css";
 import Game from "./Game/Game";
 
 export default function Page() {
-    return (
-        <div className="page">
-            <Game />
-        </div>
-    );
+  return (
+    <div className="page">
+      <Game />
+    </div>
+  );
 }

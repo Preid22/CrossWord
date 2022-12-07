@@ -1,0 +1,9 @@
+.cluebox {
+    display: flex;
+    border: 1px solid green;
+    height: 35px;
+    width: 98%;
+    margin-top: 5px;
+    align-items: center;
+    background-color: rgb(235, 247, 247);
+}
